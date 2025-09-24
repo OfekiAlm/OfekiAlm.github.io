@@ -103,6 +103,12 @@ social_preview_image: ./assets/img/profile.jpg # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
+# Math equation (MathJax) support
+math: true
+
+# Mermaid diagram support
+mermaid: true
+
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]

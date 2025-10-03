@@ -2,9 +2,7 @@
 layout: post
 title: "Building SIGMA: from idea to a tiny language with Flex & Bison"
 date: 2025-10-03 20:00:00 +0200
-categories: compilers c flex bison project
-tags: [sigma-lang, lexer, parser, AST, interpreter, make]
-toc: true
+categories: c flex bison project
 mermaid: true
 math: true
 ---
